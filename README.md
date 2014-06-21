@@ -7,8 +7,8 @@ Based on libmng.
 Installation
 ------------
 
-```make clean all
-sudo make install```
+>make clean all
+>sudo make install
 
 Requires libSDL and libmng.
 
