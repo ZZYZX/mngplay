@@ -2,18 +2,16 @@ mngplay
 =======
 
 Utility for viewing mng files.
-Based on libmng.
+Based on libmng, requires libSDL.
 
 Installation
 ------------
 
->make clean all<br />
->sudo make install
-
-Requires libSDL and libmng.
+    make clean all
+    sudo make install
 
 Usage
 -----
 
-`./mngplay MNGPAST16b.mng`
+    mngplay MNGPAST16b.mng
 
